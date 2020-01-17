@@ -1,0 +1,1 @@
+# gid-kratos-tester-docker
